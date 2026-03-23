@@ -1,5 +1,5 @@
 Họ và tên: Vũ Tiến Mạnh
-MSSV: 23810310375
+MSV: 23810310375
 
 # Kết quả
 
